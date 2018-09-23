@@ -1,0 +1,28 @@
+html, body {
+  background-color: yellow;
+  text-align: center;
+}
+
+h1 {
+  font-size: 6em;
+}
+
+h2 {
+  font-size: 4em;
+}
+
+ul {
+  list-style-type: none;
+  text-align: left;
+  font-size: 2em;
+}
+
+.row {
+  margin-top: 3em;
+}
+
+.animal-pic {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
